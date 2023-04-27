@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+html,
+body,
+#root,
+.app,
+.content {
+  margin: 0;
+  background-color: #f8f8f8;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #333547;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #5f5f63;
+  border-radius: 8px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+*.menu__humbugger{
+  color: #555;
+}
+*.menu__humbugger:hover{
+  color: #3ca78b;
+}
+
+.main-login {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  padding-right: 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffffff;
+}
+
+.main-login .innerLogo {
+  background: url('./pages/image/gameImage.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 36rem;
+  height: 24rem;
+  margin-left: 12rem;
+  margin-top: -2rem;
+}
+
+.user-box {
+
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 2px 2px 6px 0px #0000002b;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #c7c7c7;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+.menu-anchor {
+  font-size: 20px;
+}
+
+.menu-anchor p {
+  font-size: 15px;
+}
+
+
+.main-logo {
+
+  border-bottom: 3px solid #eaedf1;
+}
+
+.dashboard-content .user-box .css-weiauh {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.dashboard-content .user-box .css-weiauh .css-gg4vpm h4 {
+  margin: 0;
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.235;
+  color: #5e5873;
+}
+
+.dashboard-content .user-box .css-weiauh .css-gg4vpm .css-0 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.dashboard-content .user-box .css-weiauh .css-15goea3 .css-40kc4h-MuiTypography-root {
+  width: 100%;
+  color: #6e6e6e;
+  text-align: end;
+}
+
+.menu-drop .lkTtqM,
+
+.menu-drop .cxRqFw {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
+.css-y5nwjl .commisionTable .css-204u17-MuiDataGrid-main .css-f3jnds-MuiDataGrid-columnHeaders .css-gl260s-MuiDataGrid-columnHeadersInner .css-yrdy0g-MuiDataGrid-columnHeaderRow .MuiDataGrid-columnHeader--sortable {
+  height: 56px;
+  width: 100px;
+  min-width: 30% !important;
+  max-width: 30%;
+
+}
+
+.commisionTitle h2 {
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  font-size: 1.5rem;
+  color: #5e5873;
+}
+
+.main-logo a {
+  height: 30px;
+}
+.dailog .css-hz1bth-MuiDialog-container{
+ width: 82%;
+ margin-left: 16rem;
+}
+.dropdownLable span{
+  font-size: 15px;
+}
+.user-box .css-weiauh{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
